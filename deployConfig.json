@@ -1,0 +1,9 @@
+{
+  "app": "xxx",
+  "server": "xxxx",
+  "token": "xxxx",
+  "tars_url": "http://xx.xx.xx.xx:3000",
+  "ignore": [
+    ".gitignore",".idea/"
+  ]
+}
